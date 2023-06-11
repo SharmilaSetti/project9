@@ -7,7 +7,7 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://polite-glacier-059b5b600.3.azurestaticapps.net/
-**project demo video link**
+**project demo video link** -https://youtu.be/EotcaL9AwJ8
 **Azure technologies used for project**
  static web apps
  health bot
