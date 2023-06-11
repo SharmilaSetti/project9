@@ -44,6 +44,7 @@ This is a web based application developed for health related telugu based websit
 
 
 
+![Screenshot (7)](https://github.com/SharmilaSetti/project9/assets/123612250/f944b49c-8c7d-47bb-9bf5-d1cf19e8222a)
 
 ## Tech Stack 💻
 
